@@ -1,0 +1,6 @@
+ipykernel>=6.25
+ipython>=8.0
+matplotlib>=3.8
+notebook>=7.0
+pandas>=2.1
+seaborn>=0.13
